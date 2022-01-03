@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #ff7777;
+
+}
+
+
+.pinkodhie {
+    background-color: #ff7777;
+}
+
+.odhie {
+    padding-top: 5rem;
+}
+
+#welcome-section {
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+}
